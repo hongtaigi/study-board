@@ -7,7 +7,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BoardApplication {
 
 	public static void main(String[] args) {
+		String a = "a";
+		String b = "b";
+
 		SpringApplication.run(BoardApplication.class, args);
+
+
 	}
 
 }
