@@ -13,7 +13,7 @@ public class BoardApplication {
 		//String d = "d";
 
 		//int i = 1;
-		int j = 1;
+		//int j = 1;
 		SpringApplication.run(BoardApplication.class, args);
 	}
 
