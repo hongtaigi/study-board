@@ -14,6 +14,8 @@ public class BoardApplication {
 
 		//int i = 1;
 		//int j = 1;
+
+		//
 		SpringApplication.run(BoardApplication.class, args);
 	}
 
