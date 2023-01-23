@@ -10,7 +10,7 @@ public class BoardApplication {
 		//String a = "a";
 		String b = "b";
 		//String c = "c";
-
+		String d = "d";
 		SpringApplication.run(BoardApplication.class, args);
 	}
 
