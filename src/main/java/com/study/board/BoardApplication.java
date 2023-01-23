@@ -8,9 +8,9 @@ public class BoardApplication {
 
 	public static void main(String[] args) {
 		//String a = "a";
-		String b = "b";
+		//String b = "b";
 		//String c = "c";
-		String d = "d";
+		//String d = "d";
 		SpringApplication.run(BoardApplication.class, args);
 	}
 
