@@ -12,6 +12,7 @@ public class BoardApplication {
 		//llllllll
 		//99999999
 		//1234
+		System.out.println("sss");
 		SpringApplication.run(BoardApplication.class, args);
 	}
 
