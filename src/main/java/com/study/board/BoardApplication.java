@@ -7,11 +7,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BoardApplication {
 
 	public static void main(String[] args) {
-		//String str = "test";
-		//String str2 = "test2";
-		//String str3 = "test3";
-		//String str4 = "test4";
+		String str = "test";
+		String str2 = "test2";
+		String str3 = "test3";
+		String str4 = "test4";
 		String str5 = "test5";
+		//test master
 		SpringApplication.run(BoardApplication.class, args);
 	}
 
