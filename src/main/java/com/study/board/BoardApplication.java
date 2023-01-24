@@ -9,7 +9,7 @@ public class BoardApplication {
 	public static void main(String[] args) {
 		//String str = "test";
 		String str2 = "test2";
-		
+		String str4 = "test4";
 		SpringApplication.run(BoardApplication.class, args);
 	}
 
