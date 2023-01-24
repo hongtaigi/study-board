@@ -9,6 +9,7 @@ public class BoardApplication {
 	public static void main(String[] args) {
 		//kkkkkkkk
 		//llllllll
+		//99999999
 		SpringApplication.run(BoardApplication.class, args);
 	}
 
