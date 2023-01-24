@@ -15,6 +15,7 @@ public class BoardApplication {
 		//test master
 
 		//test local
+		//test local2
 		SpringApplication.run(BoardApplication.class, args);
 	}
 
