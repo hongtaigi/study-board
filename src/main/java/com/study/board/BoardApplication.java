@@ -13,6 +13,8 @@ public class BoardApplication {
 		String str4 = "test4";
 		String str5 = "test5";
 		//test master
+
+		//test local
 		SpringApplication.run(BoardApplication.class, args);
 	}
 
