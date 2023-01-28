@@ -9,5 +9,5 @@ public class board {
     String abc = "abc";
     List<Map<String,String>> bList = new ArrayList<Map<String, String>>();
 
-
+    //변경
 }
