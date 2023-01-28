@@ -8,6 +8,7 @@ import java.util.HashMap;
 public class board {
     String abc = "abc";
     List<Map<String,String>> bList = new ArrayList<Map<String, String>>();
-
-    //변경
+    //local에서 수정
+    //변경 - local에서 수정
+    //local에서 수정
 }
