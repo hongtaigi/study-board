@@ -11,6 +11,8 @@ public class board {
     String ccc = "ccc";
     String ddd = "ddd";
 
+
+
     List<Map<String,String>> bList = new ArrayList<Map<String, String>>();
     //서버에서 변경
     //변경--서버에서 변경
